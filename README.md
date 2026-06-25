@@ -84,7 +84,7 @@ webots-lane-following-and-path-planning/
 ### Lane Following
 
 <p align="center">
-  <img src="images/lane_following.png" width="700">
+  <img src="images/line_foll.png" width="700">
 </p>
 
 ---
@@ -92,7 +92,7 @@ webots-lane-following-and-path-planning/
 ### Path Planning
 
 <p align="center">
-  <img src="images/path_planning.png" width="700">
+  <img src="images/path_plan.png" width="700">
 </p>
 
 ---
