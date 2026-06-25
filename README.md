@@ -3,7 +3,7 @@
 A robotics simulation project developed in **Webots** demonstrating autonomous **lane following** and **grid-based path planning** for mobile robots.
 
 <p align="center">
-  <img src="images/demo.gif" width="800">
+  <img src="images/sim.gif" width="800">
 </p>
 
 ---
@@ -57,27 +57,6 @@ This project combines two fundamental autonomous navigation capabilities:
 
 ---
 
-## Project Structure
-
-```text
-webots-lane-following-and-path-planning/
-│
-├── controllers/
-│   ├── lane_follower/
-│   └── path_planner/
-│
-├── worlds/
-│   └── simulation.wbt
-│
-├── images/
-│   ├── demo.gif
-│   ├── lane_following.png
-│   └── path_planning.png
-│
-└── README.md
-```
-
----
 
 ## Results
 
